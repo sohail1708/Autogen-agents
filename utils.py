@@ -22,4 +22,4 @@ if __name__ == "__main__":
         api_key = get_openai_api_key()
         print("OpenAI API Key successfully retrieved:", api_key)
     except Exception as e:
-        print("Error:", str(e)) 
+        print("Error:", str(e))  
